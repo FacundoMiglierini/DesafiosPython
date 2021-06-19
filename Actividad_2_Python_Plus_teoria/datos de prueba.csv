@@ -1,0 +1,95 @@
+Tiempo,Partida,Cantidad total de palabras a adivinar,Nombre de evento,Usuarie - nick,usuarie -genero,usuarie -edad,Estado ,Palabra,nivel
+1621436490,1,5,inicio_partida,pepe,masculino,22,,,medio
+1621436491,1,5,intento,pepe,masculino,22,error,CASA,medio
+1621436492,1,5,intento,pepe,masculino,22,error,CASA,medio
+1621436493,1,5,intento,pepe,masculino,22,ok,CASA,medio
+1621436494,1,5,intento,pepe,masculino,22,error,PERRO,medio
+1621436495,1,5,intento,pepe,masculino,22,error,PERRO,medio
+1621436496,1,5,intento,pepe,masculino,22,error,GATO,medio
+1621436497,1,5,intento,pepe,masculino,22,error,GATO,medio
+1621436498,1,5,intento,pepe,masculino,22,error,PERRO,medio
+1621436499,1,5,intento,pepe,masculino,22,error,PERRO,medio
+1621436500,1,5,intento,pepe,masculino,22,error,PERRO,medio
+1621436501,1,5,intento,pepe,masculino,22,error,PERRO,medio
+1621436502,1,5,intento,pepe,masculino,22,ok,GATO,medio
+1621436503,1,5,intento,pepe,masculino,22,ok,PERRO,medio
+1621436504,1,5,intento,pepe,masculino,22,error,SILLA,medio
+1621436505,1,5,intento,pepe,masculino,22,error,MESA,medio
+1621436506,1,5,intento,pepe,masculino,22,error,SILLA,medio
+1621436507,1,5,intento,pepe,masculino,22,error,SILLA,medio
+1621436508,1,5,intento,pepe,masculino,22,ok,SILLA,medio
+1621436511,1,5,fin,pepe,masculino,22,timeout,,medio
+1621436512,2,4,inicio_partida,jose,no binarie,15,,,fácil
+1621436513,2,4,intento,jose,no binarie,15,ok,MESA,fácil
+1621436514,2,4,intento,jose,no binarie,15,error,SILLA,fácil
+1621436515,2,4,intento,jose,no binarie,15,error,GATO,fácil
+1621436516,2,4,intento,jose,no binarie,15,error,SILLA,fácil
+1621436517,2,4,intento,jose,no binarie,15,ok,SILLA,fácil
+1621436518,2,4,intento,jose,no binarie,15,error,GATO,fácil
+1621436519,2,4,intento,jose,no binarie,15,error,GATO,fácil
+1621436520,2,4,intento,jose,no binarie,15,error,GATO,fácil
+1621436521,2,4,intento,jose,no binarie,15,ok,GATO,fácil
+1621436522,2,4,intento,jose,no binarie,15,error,PERRO,fácil
+1621436523,2,4,intento,jose,no binarie,15,ok,PERRO,fácil
+1621436524,2,4,fin,jose,no binarie,15,finalizada,,fácil
+1621446323,3,6,inicio_partida,clementina,femenino,45,,,difícil
+1621446324,3,6,intento,clementina,femenino,45,error,PERRO,difícil
+1621446325,3,6,intento,clementina,femenino,45,error,GATO,difícil
+1621446326,3,6,intento,clementina,femenino,45,ok,GATO,difícil
+1621446327,3,6,intento,clementina,femenino,45,error,PERRO,difícil
+1621446328,3,6,intento,clementina,femenino,45,ok,MESA,difícil
+1621446329,3,6,intento,clementina,femenino,45,error,PERRO,difícil
+1621446330,3,6,intento,clementina,femenino,45,ok,PERRO,difícil
+1621446331,3,6,intento,clementina,femenino,45,error,SILLA,difícil
+1621446332,3,6,intento,clementina,femenino,45,ok,SILLA,difícil
+1621446333,3,6,intento,clementina,femenino,45,ok,BANCO,difícil
+1621446334,3,6,intento,clementina,femenino,45,ok,PAJARO,difícil
+1621446335,3,6,fin,clementina,femenino,45,finalizada,,difícil
+1621446336,4,6,inicio_partida,jose,no binarie,15,,,difícil
+1621446337,4,6,intento,jose,no binarie,15,error,SILLA,difícil
+1621446338,4,6,intento,jose,no binarie,15,error,MESA,difícil
+1621446339,4,6,intento,jose,no binarie,15,error,MESA,difícil
+1621446340,4,6,intento,jose,no binarie,15,error,SILLA,difícil
+1621446341,4,6,intento,jose,no binarie,15,error,GATO,difícil
+1621446342,4,6,intento,jose,no binarie,15,ok,SILLA,difícil
+1621446343,4,6,intento,jose,no binarie,15,error,MESA,difícil
+1621446344,4,6,intento,jose,no binarie,15,ok,MESA,difícil
+1621446345,4,6,intento,jose,no binarie,15,error,PERRO,difícil
+1621446346,4,6,intento,jose,no binarie,15,ok,GATO,difícil
+1621446347,4,6,intento,jose,no binarie,15,error,PERRO,difícil
+1621446348,4,6,intento,jose,no binarie,15,error,PERRO,difícil
+1621446349,4,6,intento,jose,no binarie,15,error,PERRO,difícil
+1621446350,4,6,intento,jose,no binarie,15,error,PERRO,difícil
+1621446351,4,6,intento,jose,no binarie,15,error,PERRO,difícil
+1621446352,4,6,intento,jose,no binarie,15,error,PERRO,difícil
+1621446353,4,6,fin,jose,no binarie,15,timeout,,difícil
+1621436554,5,4,inicio_partida,clara,trans,31,,,fácil
+1621436555,5,4,intento,clara,trans,31,error,PERRO,fácil
+1621436556,5,4,intento,clara,trans,31,error,SILLA,fácil
+1621436557,5,4,intento,clara,trans,31,ok,PERRO,fácil
+1621436558,5,4,intento,clara,trans,31,error,GATO,fácil
+1621436559,5,4,intento,clara,trans,31,ok,MESA,fácil
+1621436560,5,4,intento,clara,trans,31,error,GATO,fácil
+1621436561,5,4,intento,clara,trans,31,ok,GATO,fácil
+1621436562,5,4,intento,clara,trans,31,error,SILLA,fácil
+1621436563,5,4,intento,clara,trans,31,error,SILLA,fácil
+1621436564,5,4,intento,clara,trans,31,error,SILLA,fácil
+1621436565,5,4,intento,clara,trans,31,ok,SILLA,fácil
+1621436569,5,4,fin,clara,trans,31,finalizada,,fácil
+1621436570,6,5,inicio_partida,raul,masculino,55,,,medio
+1621436571,6,5,intento,raul,masculino,55,error,SILLA,medio
+1621436572,6,5,intento,raul,masculino,55,error,MESA,medio
+1621436573,6,5,intento,raul,masculino,55,error,MESA,medio
+1621436574,6,5,intento,raul,masculino,55,error,PAJARO,medio
+1621436575,6,5,intento,raul,masculino,55,error,PAJARO,medio
+1621436576,6,5,intento,raul,masculino,55,error,MESA,medio
+1621436577,6,5,intento,raul,masculino,55,error,MESA,medio
+1621436578,6,5,fin,raul,masculino,55,timeout,,medio
+1621449115,7,6,inicio_partida,flor,femenino,22,,,difícil
+1621449116,7,6,intento,flor,femenino,22,ok,SILLA,difícil
+1621449117,7,6,intento,flor,femenino,22,ok,CASA,difícil
+1621449118,7,6,intento,flor,femenino,22,ok,MESA,difícil
+1621449119,7,6,intento,flor,femenino,22,ok,PERRO,difícil
+1621449120,7,6,intento,flor,femenino,22,ok,GATO,difícil
+1621449121,7,6,intento,flor,femenino,22,ok,MOCHILA,difícil
+1621449136,7,6,fin,flor,femenino,22,finalizada,,difícil
