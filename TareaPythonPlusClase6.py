@@ -1,6 +1,5 @@
 import csv
 import collections
-import requests
 
 with open('Desafios Python\\appstore_games.csv','r', encoding= 'utf8') as a:
     archivo_csv = csv.reader(a, delimiter = ',')
